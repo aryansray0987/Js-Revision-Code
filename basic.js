@@ -1133,5 +1133,18 @@
 // showData()
 
 
-console.log('hiii')
-const a = 90;
+
+//A simple node js server
+// import http from 'node:http'   
+// const server = http.createServer((req , res)=>{
+//     if(req.url === '/' && req.method === 'GET'){
+//         res.end("Home page")
+//     }
+//     else{
+//         res.end("don't know which route it is ")
+//     }
+// })
+// const port = 3000
+// server.listen(port , ()=>{
+//     console.log('server is listening on the port 3000')
+// })
